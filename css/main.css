@@ -1,0 +1,11 @@
+.pd-1{padding: 1%;}
+.pd-3{padding: 3%;}
+
+.bg-gray{background-color: #D7D6D6;}
+
+.inline{display: inline-block;}
+li{
+	display: inline-block;
+	list-style-type: none;
+}
+.reloj{width: 10%;}
